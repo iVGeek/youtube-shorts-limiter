@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Shorts Limiter",
+  "version": "1.0",
+  "description": "Limit your daily YouTube Shorts consumption",
+  "permissions": ["storage", "activeTab"],
+  "host_permissions": ["https://*.youtube.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.youtube.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "YouTube Shorts Limiter"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

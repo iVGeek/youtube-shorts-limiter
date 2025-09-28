@@ -31,7 +31,7 @@
 ###Screenshots 
 
 1. Settings
-   ![Settings(https://github.com/iVGeek/youtube-shorts-limiter/blob/main/screenshots/Screenshot_2025-09-28_17-09-25.png)
+   ![Settings](https://github.com/iVGeek/youtube-shorts-limiter/blob/main/screenshots/Screenshot_2025-09-28_17-09-25.png)
 2. Limit Reached
 
 This extension will help users maintain healthy YouTube Shorts consumption habits with an elegant, user-friendly interface that integrates seamlessly with YouTube's design.

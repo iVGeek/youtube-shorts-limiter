@@ -30,4 +30,4 @@
 
 This extension will help users maintain healthy YouTube Shorts consumption habits with an elegant, user-friendly interface that integrates seamlessly with YouTube's design.
 
-### Made with <3 for everyone.
+### Built with ❤️ for everyone.
